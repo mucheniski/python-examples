@@ -16,3 +16,6 @@ def nomeFuncao():
 """
     print('faz alguma coisa!')
 ~~~
+
+Excercices in python - https://www.hackinscience.org/  
+Excercices in data science with python - https://scipy-lectures.org/  

@@ -2,6 +2,9 @@ import pandas as pd
 
 
 def printLine():
+    """
+    Print a line
+    """
     print()
     print("="*100)
     print()

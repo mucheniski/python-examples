@@ -18,4 +18,5 @@ def nomeFuncao():
 ~~~
 
 Excercices in python - https://www.hackinscience.org/  
+Excercices in python - https://www.practicepython.org/
 Excercices in data science with python - https://scipy-lectures.org/  

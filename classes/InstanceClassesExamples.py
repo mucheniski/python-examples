@@ -1,5 +1,5 @@
 #  Instance of Circle
-from module3.classes.Circle import Circle
+from classes.Circle import Circle
 
 redCircle = Circle(2, "Red")
 greenCircle = Circle(3, "Green")

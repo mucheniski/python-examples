@@ -6,6 +6,9 @@ https://medium.com/data-hackers/um-guia-para-transi%C3%A7%C3%A3o-de-carreira-na-
 # Plano de Estudos  
 https://www.youtube.com/watch?v=o8NpsLSkKUo  
 
+# Descricao sobre um cientista de dados
+https://www.youtube.com/watch?v=1kTO0H5N41Q
+
     Definir um objetivo.  
         Mapear o conteúdo, habilidates tecnicas exigidas para as oportunidades de trabalho.  
     Auto avaliação.  
